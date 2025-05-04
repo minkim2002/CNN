@@ -13,9 +13,9 @@ It supports both **training** and **testing** modes with fully configurable hype
 
 ✅ Train a CNN on MNIST with configurable hyperparameters  
 ✅ Use data augmentation (rotation, horizontal flip)  
-✅ Save and load model checkpoints
-✅ Monitor loss using TensorBoard  
-✅ Flexible architecture: adjustable hidden layers, filters, dropout, and activation
+✅ Save and load model checkpoints   
+✅ Monitor loss using TensorBoard   
+✅ Flexible architecture: adjustable hidden layers, filters, dropout, and activation   
 
 ---
 
